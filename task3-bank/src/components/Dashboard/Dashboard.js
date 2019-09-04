@@ -72,6 +72,7 @@ export default class Dashboard extends Component {
             } else {
                 this.cleanInput();
                 this.notifyError();
+                return;
 
             }
 

@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/React2-3Bank/task3-bank/build/static/css/main.a1d921a7.chunk.css",
-    "main.js": "/React2-3Bank/task3-bank/build/static/js/main.a4674560.chunk.js",
-    "main.js.map": "/React2-3Bank/task3-bank/build/static/js/main.a4674560.chunk.js.map",
+    "main.js": "/React2-3Bank/task3-bank/build/static/js/main.4c02edfc.chunk.js",
+    "main.js.map": "/React2-3Bank/task3-bank/build/static/js/main.4c02edfc.chunk.js.map",
     "runtime~main.js": "/React2-3Bank/task3-bank/build/static/js/runtime~main.243e9523.js",
     "runtime~main.js.map": "/React2-3Bank/task3-bank/build/static/js/runtime~main.243e9523.js.map",
-    "static/js/2.573c3fad.chunk.js": "/React2-3Bank/task3-bank/build/static/js/2.573c3fad.chunk.js",
-    "static/js/2.573c3fad.chunk.js.map": "/React2-3Bank/task3-bank/build/static/js/2.573c3fad.chunk.js.map",
+    "static/css/2.39017165.chunk.css": "/React2-3Bank/task3-bank/build/static/css/2.39017165.chunk.css",
+    "static/js/2.ceab0250.chunk.js": "/React2-3Bank/task3-bank/build/static/js/2.ceab0250.chunk.js",
+    "static/js/2.ceab0250.chunk.js.map": "/React2-3Bank/task3-bank/build/static/js/2.ceab0250.chunk.js.map",
     "index.html": "/React2-3Bank/task3-bank/build/index.html",
-    "precache-manifest.bcd25f612fdadf8da471c9b19708ccdb.js": "/React2-3Bank/task3-bank/build/precache-manifest.bcd25f612fdadf8da471c9b19708ccdb.js",
+    "precache-manifest.e71ecdee3b806cb8365eb1d19ce900b2.js": "/React2-3Bank/task3-bank/build/precache-manifest.e71ecdee3b806cb8365eb1d19ce900b2.js",
     "service-worker.js": "/React2-3Bank/task3-bank/build/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/React2-3Bank/task3-bank/build/static/css/2.39017165.chunk.css.map",
     "static/css/main.a1d921a7.chunk.css.map": "/React2-3Bank/task3-bank/build/static/css/main.a1d921a7.chunk.css.map"
   }
 }
