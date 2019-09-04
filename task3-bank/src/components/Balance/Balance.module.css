@@ -1,0 +1,12 @@
+.balance {
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.balance span {
+  width: 100px;
+}
