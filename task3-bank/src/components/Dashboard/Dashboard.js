@@ -43,11 +43,12 @@ export default class Dashboard extends Component {
     // stateObject - object that we have
 
     addTransaction = (stateObject, typeName) => {
-        if (+stateObject.amount < 0) {
+        if (+stateObject.amount <= 0) {
             this.notifyWarn();
             this.cleanInput();
             return;
         }
+
         const transitionAdd = {
             id: shortid.generate(),
             type: typeName,
@@ -68,6 +69,7 @@ export default class Dashboard extends Component {
                     balance: stateObject.balance - (+stateObject.amount),
                     balanceStay: stateObject.balanceStay + (+stateObject.amount),
                 }))
+
 
             } else {
                 this.cleanInput();
