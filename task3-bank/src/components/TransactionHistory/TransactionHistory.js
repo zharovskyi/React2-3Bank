@@ -1,6 +1,6 @@
 import React from 'react';
-import style from './TransactionHistory.module.css'
 import PropTypes from 'prop-types';
+import style from './TransactionHistory.module.css'
 
 
 const TransactionHistory = ({ transiction }) => {
@@ -28,9 +28,6 @@ const TransactionHistory = ({ transiction }) => {
         </>
     );
 }
-
-
-
 
 export default TransactionHistory;
 

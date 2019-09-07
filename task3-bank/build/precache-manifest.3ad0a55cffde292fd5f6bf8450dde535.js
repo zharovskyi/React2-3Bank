@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fba289b586165253092ed5dd1fb7faa",
+    "revision": "3a594e37009fc9949a6a240b960bfe54",
     "url": "/React2-3Bank/task3-bank/build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React2-3Bank/task3-bank/build/static/css/2.39017165.chunk.css"
   },
   {
-    "revision": "0a0c25847dff8724dc35",
+    "revision": "4447d4ebc5c52d178dcd",
     "url": "/React2-3Bank/task3-bank/build/static/css/main.a1d921a7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React2-3Bank/task3-bank/build/static/js/2.ceab0250.chunk.js"
   },
   {
-    "revision": "0a0c25847dff8724dc35",
-    "url": "/React2-3Bank/task3-bank/build/static/js/main.c48304b2.chunk.js"
+    "revision": "4447d4ebc5c52d178dcd",
+    "url": "/React2-3Bank/task3-bank/build/static/js/main.d736bc4f.chunk.js"
   },
   {
     "revision": "1c7d9710d45c9e0d5438",

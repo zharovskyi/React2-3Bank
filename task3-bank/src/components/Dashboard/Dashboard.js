@@ -5,8 +5,6 @@ import 'react-toastify/dist/ReactToastify.css';
 import Controls from '../Controls/Controls';
 import Balance from '../Balance/Balance';
 import TransactionHistory from '../TransactionHistory/TransactionHistory';
-
-
 export default class Dashboard extends Component {
     state = {
         transiction: [],
@@ -16,8 +14,21 @@ export default class Dashboard extends Component {
         balanceStay: 0,
 
     }
+    // 3tak
+    componentDidMount() {
+        const getIte = localStorage.getItem('bank');
+        if (getIte !== null) {
+            const item = JSON.parse(getIte);
+            this.setState({ ...item });
+        }
+    }
+    componentDidUpdate(prevProp, prevState) {
+        const { transiction } = this.state;
+        if (prevState.transiction !== transiction) {
+            localStorage.setItem('bank', JSON.stringify(this.state));
+        }
+    }
     // item on input
-
     handleChange = ({ target }) => {
         const { name, value } = target;
         this.setState({

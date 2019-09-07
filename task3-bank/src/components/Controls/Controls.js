@@ -1,7 +1,6 @@
 import React from 'react';
-import style from './Controls.module.css'
 import PropTypes from 'prop-types';
-
+import style from './Controls.module.css'
 
 const Controls = ({ amount, onClick, onChange }) => (
     <>
